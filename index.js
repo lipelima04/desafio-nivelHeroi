@@ -1,1 +1,1 @@
-asdgfas
+console.log("Ola, estou iniciando o projeto e trabalhando as habilidades com o git")
